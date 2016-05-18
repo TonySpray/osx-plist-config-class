@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>ApplicationName</key>
+		<string>Archive Manager SA</string>
+
+	<key>ApplicationNameNoSpace</key>
+		<string>ArchiveManagerSA</string>
+
+	<key>ApplicationFilenameAbbrevation</key>
+		<string>AMsa</string>
+
+	<key>ServerHost</key>
+		<string>127.0.0.1</string>
+
+	<key>ServerPort</key>
+		<integer>6753</integer>
+
+	<key>ServerDirectory</key>
+		<string>/Users/musetux/Projects/ArchiveMinder/ServerApplication/WebRoot</string>
+
+	<key>BackupLocation</key>
+		<string></string>
+
+
+ 	<key>foo</key>
+ 		<string>bar</string>
+
+	<key>Debug</key>
+		<true/>
+
+</dict>
+</plist>
