@@ -12,7 +12,7 @@ import sys
 
 class config(object):
     """
-    This class will parse a plist and make the Key/Values into class Proporties
+    This class will parse a plist and make the Key/Values into class Properties
     """
 
     plist_location = "./configSample.plist"
