@@ -6,7 +6,7 @@ Intended usage:
 
 	>>> import config
 	>>> config = config.config(./configSample.plist)
-	>>> config.serveraddress
+	>>> config.ServerHost
 	'127.0.0.1'
 
 
